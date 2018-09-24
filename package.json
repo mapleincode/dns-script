@@ -1,0 +1,16 @@
+{
+  "name": "dns-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "configw": "^0.1.1",
+    "wm-ddns": "^2.0.0"
+  }
+}
